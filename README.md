@@ -43,6 +43,8 @@ Some important settings (already done for you, if you use our files):
 - Klick on "Export G-code" and choose where you want to have your DXF file, klick OK.
 - Your done, use it for what ever you need it for.
    
-   
+License:   
+![http://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Dieses Werk ist lizenziert unter Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz")
+
    
 ![You can Donate if you want, info at haxko.space](images/Donate.svg)
